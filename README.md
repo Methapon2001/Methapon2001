@@ -6,9 +6,10 @@
 
 # Coding Skills
 - Front-End Developer — TailwindCSS (Preferably / Like), React, Vue, Svelte (Preferably / Like)
-- Back-End Developer — API (Deno/Oak, NodeJS/Fastify, Database/Prisma)
+- Back-End Developer — API — Deno/Oak, NodeJS/Fastify, Database/Prisma
 - Mobile App Developer — Flutter
-- Computer Vision
+- Server Config - NGINX, Apache2
+- Computer Vision & Machine Learning (Self Interested)
 - Web Scraping
 - Internet of Thing — Arduino
 
