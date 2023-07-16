@@ -2,24 +2,25 @@
 
 - 👋 Hi, I’m Methapon Metanipat
 - 👀 I’m interested in Software Development (and Anime)
-- 📫 Contact: dark.methapon13@gmail.com
+- 📫 **Contact :** dark.methapon13@gmail.com
 
 # Coding Skills
-- Front-End Developer (main) — React, Vue, Svelte (Preferably / Like)
-- Back-End Developer (main) — API — Deno/Oak, NodeJS/Fastify, Database/Prisma
+- Front-End Developer (main) — :sparkling_heart:Svelte:sparkling_heart:, React, Vue, Astro, Solid, Qwik
+- Back-End Developer (main) — :sparkling_heart:Bun/Elysia:sparkling_heart:, Deno/Oak, Node.js/Fastify, :sparkling_heart:DB/DrizzleORM:sparkling_heart:
 - Mobile App Developer — Flutter
-- Server Config - NGINX (main), Apache2
-- Computer Vision & Machine Learning (Self Interested)
+- Server - NGINX (main), Apache2
+- Computer Vision & Machine Learning (Self Interested / Learning)
 - Web Scraping (hobby)
 - Internet of Thing — Arduino
 
-Note: I'm not good at graphic design, all my front-end project <ins>***created by me only***</ins> will result in minimal/clean design. Nothing amazing but look good.
+__Note :__ I'm not good at graphic design, all my front-end project <ins>***created by me only***</ins> will result in minimal/clean design. Nothing amazing but look good.
 
 # Coding Language
-- Typescript (main)
+- JavaScript/TypeScript (main)
+- PHP
 - Python (web scrapping/computer vision)
 - Dart (flutter)
-- C / C++ (Arduino)
+- C / C++ (arduino)
 - rust (self interested/learning)
 - go (self interested/learning)
 
