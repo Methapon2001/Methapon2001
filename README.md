@@ -13,16 +13,13 @@
 - Web Scraping (hobby)
 - Internet of Thing — Arduino
 
-__Note :__ I'm not good at graphic design, all my front-end project <ins>***created by me only***</ins> will result in minimal/clean design. Nothing amazing but look good.
-
 # Coding Language
-- JavaScript/TypeScript (main)
-- PHP
+- JavaScript/TypeScript (main / high experience)
+- PHP (medium experience)
 - Python (web scrapping/computer vision)
 - Dart (flutter)
 - C / C++ (arduino)
 - rust (self interested/learning)
-- go (self interested/learning)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methapon2001&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
