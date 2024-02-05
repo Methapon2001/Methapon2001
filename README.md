@@ -6,9 +6,10 @@
 
 # Coding Skills
 - Front-End Developer (main) — :sparkling_heart:Svelte:sparkling_heart:, React, Vue, Astro, Solid, Qwik
-- Back-End Developer (main) — :sparkling_heart:Bun/Elysia:sparkling_heart:, Deno/Oak, Node.js, :sparkling_heart:DrizzleORM:sparkling_heart:
+- Back-End Developer (main) — :sparkling_heart:Bun/Elysia:sparkling_heart:, Deno/Oak, Node.js, :sparkling_heart:DrizzleORM:sparkling_heart:, Rust/Axum
 - Mobile App Developer — Flutter
 - Server - NGINX (main), Apache2
+- Deployment - Docker
 - Computer Vision & Machine Learning (Self Interested / Learning)
 - Web Scraping (hobby)
 - Internet of Thing — Arduino
@@ -19,7 +20,7 @@
 - Python (web scrapping/computer vision)
 - Dart (flutter)
 - C / C++ (arduino)
-- rust (self interested/learning)
+- Rust (low experience) - Axum / SeaORM / Serde
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methapon2001&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
