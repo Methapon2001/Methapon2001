@@ -6,7 +6,7 @@
 
 # Coding Skills
 - Front-End Developer (main) — :sparkling_heart:Svelte:sparkling_heart:, React, Vue, Astro, Solid, Qwik
-- Back-End Developer (main) — :sparkling_heart:Bun/Elysia:sparkling_heart:, Deno/Oak, Node.js/Fastify, :sparkling_heart:DB/DrizzleORM:sparkling_heart:
+- Back-End Developer (main) — :sparkling_heart:Bun/Elysia:sparkling_heart:, Deno/Oak, Node.js, :sparkling_heart:DrizzleORM:sparkling_heart:
 - Mobile App Developer — Flutter
 - Server - NGINX (main), Apache2
 - Computer Vision & Machine Learning (Self Interested / Learning)
